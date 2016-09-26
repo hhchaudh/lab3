@@ -1,0 +1,24 @@
+#bio {
+    background-color: #222222;
+    color:white;
+}
+
+#bio:hover {
+    background-color:white;
+    color: #222222;
+}
+
+#videoTag {
+    font-family:"Copperplate Gothic Light";
+}
+body {
+    background-image: url("../img/square-xxl.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.blue:hover {
+    background-color:blue;
+    color:white;
+}
+
